@@ -1,0 +1,6 @@
+{
+  "name": "AdHunter — Inteligência e Mineração de Anúncios",
+  "description": "Plataforma SaaS de inteligência competitiva, espionagem e mineração de anúncios comerciais validados no Meta Ads Brasil com Comparador de Nichos, Raio-X de Funil e Modelador de Copy com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
